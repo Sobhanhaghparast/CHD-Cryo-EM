@@ -40,7 +40,7 @@ Processed data files for further interpretation.​
 
 ## 📁 Repository Contents
 
-*.Loadim.m: Loads and preprocesses cryo-EM images.
+Loadim.m: Loads and preprocesses cryo-EM images.
 
 Loadmds.m: Handles multidimensional scaling (MDS) data loading.
 
