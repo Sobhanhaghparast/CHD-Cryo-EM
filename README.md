@@ -70,7 +70,7 @@ Pdata.zip: Compressed dataset incl saved MDS spaces.​
 
 
 ## 👨‍🔬 Authors
-Sobhan Haghparast
+Sobhan Haghparast & Maarten joosten
 Affiliation: department of imaging physics, Delft, Netherlands
 ​
 
