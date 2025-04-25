@@ -51,7 +51,7 @@ PCMDS.m: Performs principal coordinate analysis on MDS data.
 
 Run_Sorted.m: Main script to execute the sorted analysis pipeline.
 
-apply_flipsm.m: Applies symmetry operations to the dataset.
+apply_flipsm.m: Applies flip operations to the dataset.
 
 calculate_figure_of_meritm.m: Computes the figure of merit for reconstructions.
 
