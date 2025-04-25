@@ -14,8 +14,7 @@ Image Processing Toolbox​
 ## 🚀 Getting Started
 Clone the repository:
 
-  ```bash
-  
+  ```bash  
   git clone https://github.com/Sobhanhaghparast/CHD-Cryo-EM.git
   cd CHD-Cryo-EM
 
