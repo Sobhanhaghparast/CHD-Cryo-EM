@@ -10,6 +10,7 @@ Statistics and Machine Learning Toolbox
 
 Image Processing Toolbox​
 
+Dimensinoality reduction toolbox (third party)
 
 ## 🚀 Getting Started
 Clone the repository:
