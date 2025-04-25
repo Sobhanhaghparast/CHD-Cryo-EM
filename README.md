@@ -14,9 +14,9 @@ Image Processing Toolbox​
 ## 🚀 Getting Started
 Clone the repository:
 
-  ```bash  
-  git clone https://github.com/Sobhanhaghparast/CHD-Cryo-EM.git
-  cd CHD-Cryo-EM
+      ```bash  
+      git clone https://github.com/Sobhanhaghparast/CHD-Cryo-EM.git
+      cd CHD-Cryo-EM
 
 Extract the dataset:
 
