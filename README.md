@@ -40,7 +40,7 @@ Processed data files for further interpretation.​
 
 ## 📁 Repository Contents
 
-Loadim.m: Loads and preprocesses cryo-EM images.
+*.Loadim.m: Loads and preprocesses cryo-EM images.
 
 Loadmds.m: Handles multidimensional scaling (MDS) data loading.
 
@@ -66,10 +66,14 @@ regen_polm.m: Regenerates polarity matrices.
 
 Pdata.zip: Compressed dataset incl saved MDS spaces.​
 
-👨‍🔬 Authors
+
+
+## 👨‍🔬 Authors
 Sobhan Haghparast
 Affiliation: department of imaging physics, Delft, Netherlands
 ​
 
-📫 Acknowledgments
+
+
+## 📫 Acknowledgments
 We acknowledge the contributions of the cryo-EM community and the developers of MATLAB toolboxes utilized in this project.
